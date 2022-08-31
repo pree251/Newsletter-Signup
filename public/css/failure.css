@@ -1,0 +1,7 @@
+.failure {
+  color: azure;
+  background: linear-gradient(rgb(141, 0, 0), transparent),
+    linear-gradient(to top left, rgb(255, 136, 136), transparent),
+    linear-gradient(to top right, rgb(255, 57, 57), transparent);
+  background-blend-mode: screen;
+}

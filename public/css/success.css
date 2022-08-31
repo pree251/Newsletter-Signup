@@ -1,0 +1,7 @@
+.success {
+  color: black;
+  background: linear-gradient(rgb(0, 255, 68), transparent),
+    linear-gradient(to top left, rgb(165, 255, 165), transparent),
+    linear-gradient(to top right, rgb(0, 125, 0), transparent);
+  background-blend-mode: screen;
+}
